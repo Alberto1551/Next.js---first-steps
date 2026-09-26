@@ -4,6 +4,7 @@ type Props = {
     post: BlogPost;
 };
 
+
 function BlogPostContent({ post }: Props) {
 
     return (
